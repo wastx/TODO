@@ -1,6 +1,7 @@
 __pycache__
 venv
-.env/
-todo.db/
+.env
+todo.db
 
 
+git add -A
